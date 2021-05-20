@@ -7,6 +7,6 @@ The code was tested under Python 3.7 environment requiring to install the follow
 
 run_score_universe.py scores each compound from a fingerprinted library (either ChEMBL or Enamine) against a set of reference compounds. The output is a list of hits sorted by their total conformer overlap score (Wall) as described in the paper.
 
-proc_fp*.py scripts are used to create fingerprinted universe for screening (either ChEMBL or Enamine).
+proc_fp*.py scripts create fingerprinted universe for screening (either ChEMBL or Enamine).
 
 utils_*.py contain data management and conformer generation / fingerprinting routines.
