@@ -1,5 +1,5 @@
 # MultiRef3D
-This repository hosts files needed to demonstrate and reproduce results presented in the manuscript "Computational multi-reference poly-conformational method for de-novo design, optimization, and repositioning of pharmaceutical compounds illustrated with finding SARS-CoV-2 multi-target ligands" by V.Alexandrov, A.Kirpich and Y.Gankin
+This repository hosts files needed to demonstrate and reproduce results presented in the manuscript "A multi-reference poly-conformational method for in silico design, optimization, and repositioning of pharmaceutical compounds illustrated for selected SARS-CoV-2 ligands" by V.Alexandrov, A.Kirpich, O.Kantidze and Y.Gankin
 
 The code was tested under Python 3.7 environment requiring to install the following packages (via conda install):
 1. RDkit
